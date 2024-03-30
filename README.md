@@ -28,7 +28,7 @@ Feel free to reach out to me for collaborations, discussions, or just to geek ou
 
 ---
 
-![snake gif](https://github.com/NeerajNamani/NeerajNamani/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
