@@ -27,3 +27,11 @@ Feel free to reach out to me for collaborations, discussions, or just to geek ou
 ![](https://github-contributor-stats.vercel.app/api?username=NeerajNamani&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
+![snake gif](https://github.com/NeerajNamani/NeerajNamani/blob/output/github-contribution-grid-snake.gif)
+
+
+
+
+
+
